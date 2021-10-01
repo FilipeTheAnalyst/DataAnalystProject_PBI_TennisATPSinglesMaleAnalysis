@@ -1,7 +1,7 @@
 # Tennis ATP Singles Male Analysis
 In this project I collected data from 2001 till 2021 (last 20 years) from Tennis ATP Singles Male competition showing insights about total matches played, tournaments, players, tournament winners, grand slams, player stats and head-to-head stats.
 
-![tennis](https://user-images.githubusercontent.com/61323876/135577618-9dfd577c-72a6-4c27-823b-b0bbfe5eee95.jpg)
+![tennis](https://user-images.githubusercontent.com/61323876/135621642-bc35d4f2-3752-4282-ab8c-60686a85771b.jpg)
 
 ## Data Source
 The data is collected from JeffSackmann repository that you can check [here](https://github.com/JeffSackmann/tennis_atp) in csv format and loaded directly into Power BI.
@@ -38,7 +38,8 @@ Here is a brief explanation for each table included in the Power BI model:
 ## Calculations
 The following calculations were created in the Power BI reports using DAX (Data Analysis Expressions).
 I'm not going to show here all the calculations created in this model because there are above 50 with a lot of them regarding head-to-head statistics.
-If you're interested in checking those you can access the pbix file in [here](
+
+If you're interested in checking those you can access the pbix file in [here](https://github.com/FilipeTheAnalyst/DataAnalystProject_PBI_TennisATPSinglesMaleAnalysis/blob/main/Tennis%20Singles%20Male%20Analysis.pbix)
 Below I state the global calculations created.
 To lessen the extent of coding, the re-use of measures (measure branching) was emphasized:
 ```
