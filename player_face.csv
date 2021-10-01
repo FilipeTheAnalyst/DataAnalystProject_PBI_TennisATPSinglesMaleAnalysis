@@ -51,13 +51,13 @@ player_id;Name;Logo
 111513;Laslo Djere;https://www.atptour.com/-/media/tennis/players/head-shot/2020/djere_head_ao20.png
 106432;Borna Coric;https://www.atptour.com/-/media/tennis/players/head-shot/2020/coric_head_ao20.png
 126207;Francis Tiafoe;https://www.atptour.com/-/media/tennis/players/head-shot/2020/tiafoe_head_ao20.png
-125802;Ilya Ivashka;
+125802;Ilya Ivashka;https://www.atptour.com/-/media/tennis/players/head-shot/2019/ivashka_head_ao19.png
 105453;Kei Nishikori;https://www.atptour.com/-/media/tennis/players/head-shot/2019/nishikori_head_ao19.png
 105526;Jan Lennard Struff;
 126205;Tommy Paul;
 207518;Lorenzo Musetti;
 111456;Mackenzie Mcdonald;https://www.atptour.com/-/media/tennis/players/head-shot/2020/mcdonald_head_ao20.png
-124079;Pedro Martinez Portero;
+124079;Pedro Martinez;https://www.atptour.com/-/media/tennis/players/head-shot/2020/martinez_pedro_head_ao20.png
 200175;Miomir Kecmanovic;
 105948;Federico Coria;
 122298;Botic Van De Zandschulp;
@@ -70,18 +70,18 @@ player_id;Name;Logo
 106218;Marcos Giron;
 106415;Yoshihito Nishioka;
 200615;Alexei Popyrin;https://www.atptour.com/-/media/tennis/players/head-shot/2020/popyrin_head_ao20.png
-104871;Jeremy Chardy;
-144707;Mikael Ymer;
+104871;Jeremy Chardy;https://www.atptour.com/-/media/tennis/players/head-shot/2020/chardy_head_ao20.png
+144707;Mikael Ymer;https://www.atptour.com/-/media/tennis/players/head-shot/2020/ymer_m_head_ao20.png
 200325;Emil Ruusuvuori;
 111442;Jordan Thompson;
 126127;Benjamin Bonzi;
 126239;Arthur Rinderknech;
 105023;Sam Querrey;https://www.atptour.com/-/media/tennis/players/head-shot/2020/querrey_head_ao20.png
 105379;Aljaz Bedene;
-105902;James Duckworth;
+105902;James Duckworth;https://www.atptour.com/-/media/tennis/players/head-shot/2019/duckworth_james_pp19_head.png
 202385;Jenson Brooksby;https://www.atptour.com/-/media/tennis/players/head-shot/2020/brooksby-2021-head.png
 105550;Guido Pella;https://www.atptour.com/-/media/tennis/players/head-shot/2020/pella_head_ao20.png
-126952;Soon Woo Kwon;
+126952;Soon Woo Kwon;https://www.atptour.com/-/media/tennis/players/head-shot/2020/kwon_head_ao20.png
 106065;Marco Cecchinato;
 104755;Richard Gasquet;https://www.atptour.com/-/media/tennis/players/head-shot/2018/gasquet_head_ao18.png
 206909;Brandon Nakashima;https://www.atptour.com/-/media/tennis/players/head-shot/2021/08/04/14/22/nakashima_head_2021_august.png
@@ -116,7 +116,7 @@ player_id;Name;Logo
 105613;Norbert Gombos;https://www.atptour.com/-/media/tennis/players/head-shot/2020/gombos_head_ao20.png
 104918;Andy Murray;https://www.atptour.com/-/media/tennis/players/head-shot/2021/08/29/15/47/murray_head_2021.png
 144684;Alex Molcan;https://www.atptour.com/-/media/tennis/players/head-shot/2020/molcan-2021-headshot2.png
-200384;Hugo Gaston;
+200384;Hugo Gaston;https://www.atptour.com/-/media/tennis/players/head-shot/2021/03/26/20/07/gaston_head_2019.png
 105967;Henri Laaksonen;
 101736;Andre Agassi;https://www.atptour.com/-/media/tennis/players/head-shot/compressed/agassi-headshot-getty.png
 102856;Gustavo Kuerten;https://www.atptour.com/-/media/tennis/players/head-shot/compressed/kuerten-headshot-getty.png
@@ -152,3 +152,4 @@ player_id;Name;Logo
 102783;Rainer Schuettler;https://www.atptour.com/-/media/tennis/players/head-shot/lq/retired/schuettler_r_headshot_lq.png
 104417;Robin Soderling;https://www.atptour.com/-/media/tennis/players/head-shot/compressed/soderling-headshot-getty-tiny.png
 103264;Mariano Puerta;https://www.atptour.com/-/media/tennis/players/head-shot/lq/retired/puerta_m_headshot_lq.png
+106298;Lucas Pouille;https://www.atptour.com/-/media/tennis/players/head-shot/2021/03/24/20/00/pouille_head_march2021.png
